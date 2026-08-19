@@ -1,0 +1,3 @@
+Hello, my name is Shahd.
+I am learning Python.
+This is an OOP task.
